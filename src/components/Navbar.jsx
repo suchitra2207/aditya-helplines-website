@@ -6,9 +6,9 @@ function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false)
 
   return (
-    <nav className="absolute top-0 left-0 w-full z-50 text-white">
+    <nav className="absolute top-0 left-0 w-full z-50 text-white bg-black/40 backdrop-blur-md">
 
-      <div className="container mx-auto px-6 md:px-10 pt-10 pb-6 flex justify-between items-center">
+      <div className="container mx-auto px-6 md:px-10 py-4 flex justify-between items-center">
 
         {/* Logo */}
         <div className="flex items-center gap-2 md:gap-3">
@@ -20,7 +20,7 @@ function Navbar() {
           />
 
           <div>
-            <h2 className="text-sm md:text-2xl font-bold leading-tight">
+            <h2 className="text-lg md:text-2xl font-bold leading-tight drop-shadow-lg">
               Aditya Helplines
             </h2>
 
