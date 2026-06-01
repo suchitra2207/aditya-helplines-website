@@ -13,11 +13,11 @@ function Hero() {
       <div className="absolute inset-0 bg-black/50"></div>
 
       {/* Content */}
-      <div className="container mx-auto px-6 md:px-10 relative z-10">
+      <div className="container mx-auto px-6 md:px-10 relative z-10 pt-32 md:pt-0">
 
         <div className="max-w-4xl">
 
-          <p className="text-green-400 uppercase tracking-[4px] text-sm md:text-base mb-6">
+          <p className="text-green-400 uppercase tracking-[4px] text-sm md:text-base mb-6 mt-16 md:mt-0">
             Sports Infrastructure Specialists
           </p>
 
