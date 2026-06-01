@@ -11,20 +11,20 @@ function Navbar() {
       <div className="container mx-auto px-6 md:px-10 pt-10 pb-6 flex justify-between items-center">
 
         {/* Logo */}
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2 md:gap-3">
 
           <img
             src={logo}
             alt="Aditya Helplines Logo"
-            className="h-14 md:h-16 w-auto"
+            className="h-8 md:h-16 w-auto"
           />
 
           <div>
-            <h2 className="text-xl md:text-2xl font-bold leading-none">
+            <h2 className="text-sm md:text-2xl font-bold leading-tight">
               Aditya Helplines
             </h2>
 
-            <p className="text-xs md:text-sm text-gray-300">
+            <p className="hidden md:block text-sm text-gray-300">
               Sports Infrastructure
             </p>
           </div>

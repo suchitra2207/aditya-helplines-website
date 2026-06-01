@@ -21,7 +21,7 @@ function Hero() {
             Sports Infrastructure Specialists
           </p>
 
-          <h1 className="text-5xl md:text-7xl font-bold leading-[1.1] text-white">
+          <h1 className="text-4xl md:text-7xl font-bold leading-[1.1] text-white">
             Building World-Class
             <br />
             Sports Infrastructure
@@ -36,8 +36,13 @@ function Hero() {
           <div className="flex flex-wrap gap-5 mt-10">
 
             <a
-  href="#projects" className="bg-green-500 hover:bg-green-400 hover:scale-105 transition duration-300 text-black px-10 py-5 rounded-2xl font-bold text-lg shadow-2xl">
+  href="#services" className="bg-green-500 hover:bg-green-400 hover:scale-105 transition duration-300 text-black px-10 py-5 rounded-2xl font-bold text-lg shadow-2xl">
               View Projects
+            </a>
+
+            <a
+  href="#projects" className="bg-green-500 hover:bg-green-400 hover:scale-105 transition duration-300 text-black px-10 py-5 rounded-2xl font-bold text-lg shadow-2xl">
+              View Services
             </a>
 
             <a

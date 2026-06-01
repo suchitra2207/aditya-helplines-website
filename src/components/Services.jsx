@@ -1,18 +1,19 @@
 function Services() {
 
   const services = [
-    "Nimpur Sporrts Club, Cuttack",
-    "Railway Stadium, Sambalpur",
+    "Nimpur Sports Club, Cuttack",
+    "Railway Cricket Stadium, Sambalpur",
     "Rao Cricket Academy, Bhubaneswar",
-    "Sambalpur University, Khurda",
+    "Sambalpur University Stadium, Sambalpur",
     "Hi-Tech Medical College, Bhubaneswar",
-    "IOSR, Paradeep",
-    "Ramco Pvt. Ltd., Bhubaneswar",
+    "IOSL, Paradeep",
+    "Ramco Pvt. Ltd., Jarka",
     "NISER, Bhubaneswar",
-    "Kalpataru Mini-Stadium, Bhubaneswar",
-    "Railway Stadium, Khurda",
-    "Railway Football Stadium, Sambalpur",
-    "Bhubaneswar Raily Stadium, Bhubaneswar",
+    "Kalpataru Mini-Stadium, Jarka",
+    "Railway Cricket Stadium, Khurda",
+    "Railway Football Stadium, Khurda",
+    "Bhubaneswar Railway Stadium, Bhubaneswar",
+    "CAP Cricket Academy, Bhubaneswar"
   ]
 
   return (

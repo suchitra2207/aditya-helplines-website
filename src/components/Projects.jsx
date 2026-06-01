@@ -22,11 +22,11 @@ function Projects() {
   },
   {
     image: project3,
-    title: "Indoor Sports Stadium"
+    title: "Outdoor Sports Stadium"
   },
   {
     image: project4,
-    title: "Digital Scoreboard Installation"
+    title: "Digital Scoreboard"
   },
   {
     image: project5,
@@ -66,7 +66,8 @@ function Projects() {
           </p>
 
           <h2 className="text-5xl font-bold max-w-3xl leading-tight">
-            Comprehensive Sports Infrastructure Solutions
+            Built To Perform.
+            Designed To Inspire.
           </h2>
 
         </div>
